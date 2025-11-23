@@ -3,9 +3,6 @@
 This repository demonstrates how to build a **neural network from the ground up** using only Python and NumPy.  
 It is designed as an educational project to show the inner workings of forward propagation, backward propagation, cost computation, and parameter updates without relying on deep learning frameworks such as TensorFlow or PyTorch.
 
-![Uploading image.png…]()
-
-
 ## ✨ Features
 - Implementation of **forward propagation** and **backward propagation**
 - Activation functions: **ReLU** and **Sigmoid**
@@ -35,3 +32,4 @@ During training, the loss value is printed to the console so you can observe the
 🎯 Purpose
 
 This project is intended for educational purposes. It helps beginners understand how neural networks work internally and provides a foundation for exploring more advanced machine learning frameworks.
+
